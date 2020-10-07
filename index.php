@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+    echo "Bienvenido al ITVO developer";
+    echo "Framework";
 ?>
